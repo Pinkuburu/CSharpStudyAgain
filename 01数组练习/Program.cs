@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace _01数组练习
 {
     class Program
     {
@@ -56,8 +56,24 @@ namespace ConsoleApp1
             //Console.ReadKey();
             #endregion
 
+            #region 把数组中的东西头尾两两交换
+            //string[] names = { "a", "b", "c", "d", "e" };
 
+            //for (int i = 0; i < names.Length/2; i++)
+            //{
+            //    string temp = names[i];
+            //    names[i] = names[names.Length - 1 - i];
+            //    names[names.Length - 1 - i] = temp;
 
+            //}
+
+            //for (int i = 0; i < names.Length; i++)
+            //{
+            //    Console.WriteLine(names[i]);
+            //}
+            ////Console.WriteLine(names); 数组输出元素，必须遍历循环数组内容打印出来
+            //Console.ReadKey();
+            #endregion
         }
     }
 }
