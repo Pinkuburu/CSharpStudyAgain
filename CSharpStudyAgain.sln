@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04out的学习", "04out的�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05ref的学习", "05ref的学习\05ref的学习.csproj", "{0C304FF7-3B5C-4040-A0F8-0C8DB93BEFB9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06params可变参数数组学习", "06params可变参数数组学习\06params可变参数数组学习.csproj", "{EA850013-7D63-41DD-AFF5-990DF4B36166}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{0C304FF7-3B5C-4040-A0F8-0C8DB93BEFB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C304FF7-3B5C-4040-A0F8-0C8DB93BEFB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C304FF7-3B5C-4040-A0F8-0C8DB93BEFB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA850013-7D63-41DD-AFF5-990DF4B36166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA850013-7D63-41DD-AFF5-990DF4B36166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA850013-7D63-41DD-AFF5-990DF4B36166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA850013-7D63-41DD-AFF5-990DF4B36166}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
