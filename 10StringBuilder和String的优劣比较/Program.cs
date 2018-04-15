@@ -5,13 +5,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StringBuilder和String的优劣比较
+namespace _10StringBuilder和String的优劣比较
 {
     class Program
     {
         static void Main(string[] args)
         {
-             string str = "";
+            string str = "";
             StringBuilder sb = new StringBuilder();
             Stopwatch sw = new Stopwatch();
             sw.Start();

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{85981AA3-385C-4280-8669-371E746280AD}</ProjectGuid>
+    <ProjectGuid>{9D2E67B2-0D03-463B-9EFC-CD9A17208805}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>StringBuilder和String的优劣比较</RootNamespace>
-    <AssemblyName>StringBuilder和String的优劣比较</AssemblyName>
+    <RootNamespace>_11序列化和反序列化</RootNamespace>
+    <AssemblyName>11序列化和反序列化</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
